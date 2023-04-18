@@ -1,0 +1,15 @@
+*{
+    margin: 3;
+}
+
+body{
+    height: 50vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #f6f6f6    ;
+}
+
+h1{
+    color: #f6f6f6;
+}
+
